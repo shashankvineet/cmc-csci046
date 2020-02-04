@@ -56,7 +56,7 @@ Differences between this course and HMC's CSCI060HM/CSCI070HM:
 Advice on how to be a good programmer:
 
 1. [Peter Norvig](https://norvig.com/21-days.html) (AI researcher and senior engineer at Google)
-1. [Paul Graham](http://www.paulgraham.com/college.html) (Founder of YCombinator startup incubator)
+1. [Paul Graham](http://www.paulgraham.com/college.html) (Founder of YCombinator startup incubator); [being a noob](http://paulgraham.com/noob.html)
 1. [Jeff Atwood](https://blog.codinghorror.com/how-to-become-a-better-programmer-by-not-programming/) (Founder of stackoverflow.com)
 1. [Eric Steven Raymond, better known as esr](http://www.catb.org/esr/faqs/hacker-howto.html) (a famous hacker)
 
@@ -70,10 +70,16 @@ How to make money/get a good job:
 
 Other technical articles:
 
-1. Mike's [dotfiles](https://github.com/mikeizbicki/dotfiles)
+1. [Command-line tools can be faster than a hadoop cluster](https://news.ycombinator.com/item?id=22188877)
+1. [intermediate vim](https://dn.ht/intermediate-vim/)
+1. [Mike's dotfiles](https://github.com/mikeizbicki/dotfiles)
+1. [The missing semester of CS education](https://news.ycombinator.com/item?id=22226380)
+1. [Larry Wall's three virtures of a programmer](http://threevirtues.com/)
+<!--
 1. [O(n^2) again](https://news.ycombinator.com/item?id=21743424)
 1. [What every programmer should know about floating-point](https://floating-point-gui.de/)
 1. [The lat/lon floating point delusion](https://www.datafix.com.au/BASHing/2019-08-09.html)
+-->
 <!--1. [The fallacy of premature optimization](https://ubiquity.acm.org/article.cfm?id=1513451)-->
 <!--1. [Computer Science from the Bottom Up](https://www.bottomupcs.com/index.xhtml)-->
 
@@ -100,7 +106,7 @@ Programming games:
 | 1    | Thur, 23 Jan | Intro to shell / vim / git / travis             |               |
 | 2    | Tues, 28 Jan | Intro to shell / vim / git / travis             |               |
 | 2    | Thur, 30 Jan | Python features                                 | MR 1-2        |
-| 3    | Tues, 04 Feb | Analysis I                                      | MR 3          |
+| 3    | Tues, 04 Feb | Analysis I                                      | MR 3, DPV 0.3 |
 | 3    | Thur, 06 Feb | Analysis II                                     | [PythonWiki](https://wiki.python.org/moin/TimeComplexity) |
 | 4    | Tues, 11 Feb | Basic data structures: stack                    | MR 4.1-4.9    |
 | 4    | Thur, 13 Feb | Basic data structures: queue                    | MR 4.10-4.23  |
@@ -190,7 +196,7 @@ then you will get extra credit.
 The first time you do this, you will get 1 point of extra credit;
 subsequent times you will get less.
 
-If you make a contribution to an open source project during the course, 
+If you make a contribution to an open source project during the course,
 you will get extra credit depending on the magnitude of your contribution.
 See https://up-for-grabs.net for some projects that are looking for new contributors.
 
